@@ -80,7 +80,8 @@ int main() {
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/555927c0-bab2-412e-9e96-360b99721411)
+![image](https://github.com/user-attachments/assets/50ce8ce3-68fa-40a1-9622-74a01de81189)
+
 
 ## Result:
 The program is executed successfully
